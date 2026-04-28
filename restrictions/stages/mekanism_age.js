@@ -75,14 +75,14 @@ AStages.addRestrictionForRecipe(
 )
 
 AStages.addRestrictionForRecipe(
-    "smelting_osmium_custom",    // Произвольный ID правила
+    "blasting_osmium_custom_1",    // Произвольный ID правила
     'meka_post_end',                   // Стадия
     "minecraft:blasting",  // ИСПРАВЛЕНО: нижний регистр
     "kubejs:mekanism/blasting_osmium_manual_only_2"
 )
 
 AStages.addRestrictionForRecipe(
-    "blasting_osmium_custom",    // Произвольный ID правила
+    "smelting_osmium_custom_1",    // Произвольный ID правила
     'meka_post_end',                   // Стадия
     "minecraft:smelting",  // ИСПРАВЛЕНО: нижний регистр
     "kubejs:mekanism/smelting_osmium_manual_only_1"
@@ -104,14 +104,14 @@ AStages.addRestrictionForRecipe(
 )
 
 AStages.addRestrictionForRecipe(
-    "smelting_gold_custom",    // Произвольный ID правила
+    "blasting_gold_custom_1",    // Произвольный ID правила
     'meka_post_end',                   // Стадия
     "minecraft:blasting",  // ИСПРАВЛЕНО: нижний регистр
     "kubejs:mekanism/blasting_gold_manual_only_2"
 )
 
 AStages.addRestrictionForRecipe(
-    "blasting_gold_custom",    // Произвольный ID правила
+    "smelting_gold_custom_1",    // Произвольный ID правила
     'meka_post_end',                   // Стадия
     "minecraft:smelting",  // ИСПРАВЛЕНО: нижний регистр
     "kubejs:mekanism/smelting_gold_manual_only_1"
@@ -133,14 +133,14 @@ AStages.addRestrictionForRecipe(
 )
 
 AStages.addRestrictionForRecipe(
-    "smelting_copper_custom",    // Произвольный ID правила
+    "blasting_copper_custom_1",    // Произвольный ID правила
     'meka_post_end',                   // Стадия
     "minecraft:blasting",  // ИСПРАВЛЕНО: нижний регистр
     "kubejs:mekanism/blasting_copper_manual_only_2"
 )
 
 AStages.addRestrictionForRecipe(
-    "blasting_copper_custom",    // Произвольный ID правила
+    "smelting_copper_custom_1",    // Произвольный ID правила
     'meka_post_end',                   // Стадия
     "minecraft:smelting",  // ИСПРАВЛЕНО: нижний регистр
     "kubejs:mekanism/smelting_copper_manual_only_1"
@@ -162,14 +162,14 @@ AStages.addRestrictionForRecipe(
 )
 
 AStages.addRestrictionForRecipe(
-    "smelting_tin_custom",    // Произвольный ID правила
+    "blasting_tin_custom_1",    // Произвольный ID правила
     'meka_post_end',                   // Стадия
     "minecraft:blasting",  // ИСПРАВЛЕНО: нижний регистр
     "kubejs:mekanism/blasting_tin_manual_only_2"
 )
 
 AStages.addRestrictionForRecipe(
-    "blasting_tin_custom",    // Произвольный ID правила
+    "smelting_tin_custom_1",    // Произвольный ID правила
     'meka_post_end',                   // Стадия
     "minecraft:smelting",  // ИСПРАВЛЕНО: нижний регистр
     "kubejs:mekanism/smelting_tin_manual_only_1"
@@ -191,14 +191,14 @@ AStages.addRestrictionForRecipe(
 )
 
 AStages.addRestrictionForRecipe(
-    "smelting_lead_custom",    // Произвольный ID правила
+    "blasting_lead_custom_1",    // Произвольный ID правила
     'meka_post_end',                   // Стадия
     "minecraft:blasting",  // ИСПРАВЛЕНО: нижний регистр
     "kubejs:mekanism/blasting_lead_manual_only_2"
 )
 
 AStages.addRestrictionForRecipe(
-    "blasting_lead_custom",    // Произвольный ID правила
+    "smelting_lead_custom_1",    // Произвольный ID правила
     'meka_post_end',                   // Стадия
     "minecraft:smelting",  // ИСПРАВЛЕНО: нижний регистр
     "kubejs:mekanism/smelting_lead_manual_only_1"
