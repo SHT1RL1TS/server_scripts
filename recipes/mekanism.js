@@ -106,6 +106,6 @@ ServerEvents.recipes(event => {
         O: 'mekanism:ingot_osmium',
         L: 'mekanism:basic_control_circuit',
         G: '#forge:glass'
-    }).id('kubejs:mekanism/energized_smelter')
+    }).id('kubejs:mekanism/enrichment_chamber')
     // #endregion
 })
